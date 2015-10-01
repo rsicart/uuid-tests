@@ -1,0 +1,27 @@
+# Temporary files
+.*
+\#*
+*~
+*.bak
+*.log
+*.pid
+*.old
+.DS_Store
+Thumbs.db
+tmp/*
+
+# Binary Files
+*.dat
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.tbz
+*.rar
+*.pdf
+*.xls
+*.csv
+
+# Sample Files
+*.example.*
